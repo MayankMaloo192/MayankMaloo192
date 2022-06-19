@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MayankMaloo192
 - 🌱 I’m currently learning web developement.
-- 
 - 📫 How to reach me  mayankmaloo3@gmail.com
 
 <!---
