@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayankMaloo192
-- 🌱 I’m currently learning web developement.
-- 📫 How to reach me  mayankmaloo3@gmail.com
+- 🌱 I am learning front-end web developement. I’m strongly profiecient in data stuctures and algorithms. 
+- 📫 You can communicate with me at my mail address mayankmaloo3@gmail.com
 
 <!---
 MayankMaloo192/MayankMaloo192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
