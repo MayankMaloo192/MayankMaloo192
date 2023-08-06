@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MayankMaloo192
-- 🌱 I am learning front-end web developement. I’m strongly profiecient in data stuctures and algorithms. 
+- 🌱 I am learning front-end web developement. I’m strongly proficient in data stuctures and algorithms. 
 - 📫 You can communicate with me at my mail address mayankmaloo3@gmail.com
 
 <!---
